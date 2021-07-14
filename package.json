@@ -1,0 +1,25 @@
+{
+  "name": "nodepress",
+  "version": "1.0.0",
+  "description": "NodePress - Sistema de Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexmello3/NodePress.git"
+  },
+  "keywords": [
+    "NodePress",
+    "Blog",
+    "JavaScript",
+    "Node.JS"
+  ],
+  "author": "Alex Mello de Mendonça",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexmello3/NodePress/issues"
+  },
+  "homepage": "https://github.com/alexmello3/NodePress#readme"
+}
